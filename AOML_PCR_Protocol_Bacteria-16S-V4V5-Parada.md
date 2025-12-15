@@ -1,7 +1,7 @@
 ---
 # MIOP terms
 methodology_category: omics analysis
-project: NOAA Atlantic Oceanographic and Meteorological Laboratory Omics Program Protocols
+project: "NOAA Atlantic Oceanographic and Meteorological Laboratory Omics Program; https://github.com/aomlomics/protocols; https://zenodo.org/communities/aomlomics"
 purpose: amplicon sequencing assay [OBI:0002767] | polymerase chain reaction assay [OBI:0002692]
 analyses: amplicon sequencing assay [OBI:0002767] | polymerase chain reaction assay [OBI:0002692]
 geographic_location: Atlantic Ocean [GAZ:00000344], Gulf of Mexico [GAZ:00002853]
@@ -17,7 +17,7 @@ personnel_required: 1
 language: en
 issued: 2021-02-08
 audience: scientists
-publisher: NOAA's Atlantic Oceanographic and Meteorological Laboratory
+publisher: NOAA Atlantic Oceanographic and Meteorological Laboratory
 hasVersion: 1
 license: CC0 1.0 Universal
 maturity level: mature
