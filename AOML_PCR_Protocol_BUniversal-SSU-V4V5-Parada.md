@@ -94,19 +94,27 @@ pcr2_method_additional: not applicable
 | Sean Anderson | NOAA/AOML, MSU/NGI | <https://orcid.org/0000-0003-3096-1120> | 2021-02-28 |
 | Sammy Harding | NOAA/AOML, MSU/NGI | <https://orcid.org/0009-0008-8885-6140> | 2024-08-19 |
 
-## RELATED PROTOCOLS
+### Related Protocols
+
+- This section contains protocols that should be known to users of this protocol.
+- Internal Protocols: Derivative or altered protocols, or other protocols in this workflow.
+- External Protocols: Protcols from manufacturers or other groups. 
+- Include the link to each protocol.
+- Include the version number (internal) or access date (external) of the protocol when it was accessed.
+
+#### Internal Protocols
 
 | PROTOCOL NAME | LINK  | VERSION | RELEASE DATE|
 | ------------- | ------------- | ------------- | ------------- |
 | AOML 'Omics Protocols | <https://github.com/aomlomics/protocols> | 1.2.2 | ongoing |
 
-## RELATED EXTERNAL PROTOCOLS
+#### External Protocols
 
 | PROTOCOL NAME | LINK | ISSUER / AUTHOR | ACCESS DATE |
 | ------------ | ------------ | ------------ | ---------- |
 | Fuhrman Lab 515F-926R 16s and 18S rrna gene sequencing protocol | dx.doi.org/10.17504/protocols.io.vb7e2rn | Fuhrman, J. et al. | 2025-02-05 |
 | AMPure XP Bead-Based Reagent Protocol for PCR Purification | https://www.beckman.com/reagents/genomic/cleanup-and-size-selection/pcr/ampure-xp-protocol | Beckman Coulter | 2025-02-05 |
-| Invitrogen Qubit 1X dsDNA HS Assay Kits User Guide | https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0017455_Qubit_1X_dsDNA_HS_Assay_Kit_UG.pdf | ThermoFisher Scientific | 2025-02-05 |
+| Invitrogen Qubit 1X dsDNA HS Assay Kits User Guide | https://assets.thermofisher.com/TFS-Assets/LSG/manuals/MAN0017455_Qubit_1X_dsDNA_HS_Assay_Kit_UG.pdf | Thermo Fisher Scientific | 2025-02-05 |
 
 ### Protocol Revision Record
 
